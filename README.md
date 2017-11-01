@@ -1,5 +1,5 @@
 # i3barScripts
-##A collection of scripts I use for my i3blocks bar. </br>
+A collection of scripts I use for my i3blocks bar. </br>
 </br>
 battery.c - displays battery stats along with a font awesome icon.</br>
 bitcoin.py - displays current bitcoin and ethereum prices USD.</br>
